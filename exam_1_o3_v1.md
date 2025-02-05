@@ -258,7 +258,7 @@ Find the perimeter of a square with side $5$.  $ \_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Find the area of a square with side $7$.  $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_$
 
-If a square’s area is $64$, determine its side length and perimeter.  Side: \***\*\_\_\*\***, Perimeter: \***\*\_\_\*\***
+If a square’s area is $64$, determine its side length and perimeter.  Side: \_\_\_\_\_\_, Perimeter: \_\_\_\_\_\_\_\_
 
 A square’s diagonal is given; compute the side length if the diagonal is $10$.  $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_$
 
